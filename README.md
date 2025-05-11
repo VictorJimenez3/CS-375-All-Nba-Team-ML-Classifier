@@ -41,6 +41,7 @@ It can also prove the biases in the historic voting process, and give analytic p
 - Only a small percentage of players are selected each year, making the classes highly imbalanced
 - All-NBA isn’t purely stat-based—factors like team success, market size, and narrative can affect voting
 - Stats evolve over time (e.g., 3-point era), so older data may not match modern trends
+- I originally tried to have a multiclass classifier but it proved to be too inconsitent due to large dataset and limited correctness window
 
 ## Ethics
 
